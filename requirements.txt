@@ -1,2 +1,10 @@
 fastapi
 uvicorn
+yfinance
+pandas
+numpy
+requests
+fastembed
+qdrant-client
+
+
